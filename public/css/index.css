@@ -1,0 +1,11 @@
+:root {
+  --primary: red;
+}
+
+.bg-primary {
+  background-color: var(--primary) !important;
+}
+
+#content p {
+  max-width: 640px;
+}
